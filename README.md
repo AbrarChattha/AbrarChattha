@@ -1,5 +1,5 @@
 # Abrar-Hassan-Chattha
-### Hi there, I'm Abrar 👋
+### Hi there, I'm Abrar hassan. 👋
 
 ## I'm a Developer, Teacher and Researcher!
 - 🔭 I’m currently working on a AI Research, Applied AI and Python Django!,Mchine learning, Deep learning
