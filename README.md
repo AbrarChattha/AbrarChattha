@@ -1,7 +1,7 @@
 # Abrar-Hassan-Chattha
 ### Hi there, I'm Abrar hassan. 👋
 
-## I'm a student of Masters in comuting from griggith college dublin 
+## I'm a student of Masters in comuting from griffith college dublin 
 -  google Developer club lead(GDSC) 2021,2022 | Hult prize Director | flutter Developer,| Teacher and Researcher!
 - 🔭 I’m currently working on a AI Research, Applied AI and Python Django!,Mchine learning, Deep learning
 - 🌱 I’m currently learning flutter
