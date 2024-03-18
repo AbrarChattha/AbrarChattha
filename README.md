@@ -2,11 +2,11 @@
 ### Hi there, I'm Abrar hassan. 👋
 
 ## I'm a student of Masters in comuting from griffith college dublin 
--  google Developer club lead(GDSC) 2021,2022 | Hult prize Director | flutter Developer,| Teacher and Researcher!
-- 🔭 I’m currently working on a AI Research, Applied AI and Python Django!,Mchine learning, Deep learning
-- 🌱 I’m currently learning flutter
+-  google Developer club lead(GDSC) 2021,2022 | Hult prize Director | Machine learning, Deep learning Developer,| Teacher and Researcher!
+- 🔭 I’m currently  working on a AI Research, Applied AI and Python !,Mchine learning, Deep learning
+- 🌱 I’m currently learning flutter and Doing Research in Machine learning and deep learning
 - 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2023 Goals:Contribute more to Open Source projects
+- 🥅 2024 Goals:Contribute more to Open Source projects
 
 ### Connect with me:
 
@@ -47,9 +47,9 @@
 
 
 [instagram]: https://instagram.com/abrar_chatha
-[linkedin]:https://www.linkedin.com/in/abrar-hassan-916b46160
-[facebook]: https://facebook.com/abrar.hassan.14855/
+[linkedin]:https://www.linkedin.com/in/abrar-hassan-916b46160/
+[facebook]: https://www.facebook.com/abrar.hassan.chattha
 
 Connect with me:
-abrar28023@iqraisb.edu.pk
+abrarhassanofficial@gmail.com
 
